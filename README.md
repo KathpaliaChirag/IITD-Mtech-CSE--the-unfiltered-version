@@ -315,7 +315,15 @@ iitd placement numbers and faculty quality are strong. the brand matters. if you
 | delhi | great campus, real pollution, big city adjustment |
 
 ---
+## 11. some quick things seniors want you to know
 
+a few points straight from current students:
+
+- for JCS, JTM, JRB and similar programs - program core credits are higher, so you get less room to pick electives of your choice. factor this in if course flexibility matters to you.
+- MTech students currently can't sit for the on-campus internship season (which starts around Jan) unlike BTechs. this is a gap - industry exposure before placements genuinely helps and hopefully this changes, but for now plan your own internship/project exposure accordingly.
+- that said - the current batch has been pushing the department on this and there's likely going to be an arrangement where teams of ~8 students from MTech CSE work on a department-facilitated internship. not confirmed yet but it's being actively worked on - watch this space.
+- **on building things vs just studying** - your single most valuable resource here is time. treat it like tokens you can't get back. blogs are fine but code-as-public-good is higher leverage - small apps, tools, things you wish existed. use AI to build faster, no shame in that. 5 years from now saying "i write all my code manually" will be like saying "i make docs without MS Word." things you build improve your skills, your resume, and actually help people. that's the +ev move.
+- public goods of any kind - code, guides, tools - are worth doing. just be honest with yourself about the time cost and what you're getting back.
 iit delhi is worth it if you go in knowing what you're signing up for and with a real plan. it's not worth it if you're here for the tag and expecting the rest to fall into place.
 
 hope this helped. good luck with the decision.
