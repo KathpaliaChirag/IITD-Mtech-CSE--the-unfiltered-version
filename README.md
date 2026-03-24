@@ -50,7 +50,7 @@ if you feel you should have been shortlisted but aren't - double check the short
 
 ## 1. what are your options here?
 
-**2-year programs (structured, placement pipeline strong):**
+**2-year programs (structured, placement pipeline strong, TA work hours are 8/week):**
 - M.Tech CSE - the classic, most popular
 - M.Tech Cyber Security
 - M.Tech Ctech (computing technology, a bit of an EE-CS middle ground)
@@ -58,7 +58,7 @@ if you feel you should have been shortlisted but aren't - double check the short
 - M.Tech JTM
 - M.Tech Robotics
 
-**HVA programs (same curriculum as 2-year, higher stipend ~22k, written test + interview for selection):**
+**HVA programs (same curriculum as 2-year, higher stipend ~22k, written test + interview for selection, these are also full time course just with longer duration and more work hours - 20/week ):**
 - M.Tech CSE - HVA
 - M.Tech Ctech HVA
 
