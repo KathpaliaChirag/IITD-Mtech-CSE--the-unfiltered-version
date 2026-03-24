@@ -1,3 +1,4 @@
+
 # IITD MTech CSE - the unfiltered version
 
 *for those considering IIT Delhi PG - before you make the call*
@@ -37,6 +38,8 @@ the only exception: IIT BTechs with CGPA >= 8.0 are exempted from GATE and go th
 
 **HVA and part-time / sponsored programs** have an in-person written test followed by interviews. the written test covers: data structures and algorithms, hardware and software systems, probability and linear algebra, discrete mathematics and logic. there's a sample paper on the official admissions page - go through it if you're applying for HVA.
 
+**MSR offers come on the IITD portal directly - not on COAP.** unlike most other programs, if you get an MSR offer you won't see it on COAP. keep an eye on the IITD portal separately.
+
 **one thing different from other IITs:**
 
 **there is no order of preference system here.** unlike other IITs where you can rank programs, IIT Delhi requires you to fill a separate application for each program independently. so if you want to apply to both M.Tech CSE and M.Tech Ctech, that's two separate forms. keep this in mind and don't miss any program you want to be considered for.
@@ -50,15 +53,19 @@ if you feel you should have been shortlisted but aren't - double check the short
 **2-year programs (structured, placement pipeline strong):**
 - M.Tech CSE - the classic, most popular
 - M.Tech Cyber Security
-- M.Tech Ctech (computing technology, A BIT ELECTRICAL CS MIDDLEGROUND)
-- M.Tech JTM 
+- M.Tech Ctech (computing technology, a bit of an EE-CS middle ground)
+- M.Tech MINDS (AI program - written exam based selection, more on this below)
+- M.Tech JTM
 - M.Tech Robotics
 
-**3-YeaR programs:**
-- M.Tech CSE - HVA [~22k stipend, interview-based selection]
-- M.Tech Ctech HVA [~22k stipend]
+**HVA programs (same curriculum as 2-year, higher stipend ~22k, written test + interview for selection):**
+- M.Tech CSE - HVA
+- M.Tech Ctech HVA
+
+**research programs (3-year, thesis-focused):**
 - MSR CSE
 - MSR SIT (systems and IT)
+- MSR AI
 - MSR Bharti / JTM
 
 **rough seat count:**
@@ -69,11 +76,20 @@ if you feel you should have been shortlisted but aren't - double check the short
 
 **which one should you pick?**
 
-if placement is your primary goal - M.Tech CSE 2-year is the safest bet. most structured, best pipeline, largest senior network.
+if placement is your primary goal and you want the most structured path - **M.Tech CSE 2-year** is the safest bet. largest senior network, best pipeline.
 
-if you want research and a longer runway - MSR or HVA. higher stipend but more commitment. placement support is less structured.
+if placement is still the goal but you want a slightly more relaxed pace with the same curriculum - **HVA** is worth considering. same placement opportunities, same courses, higher stipend, but selection is harder (written test + interview). don't pick HVA thinking it's research-oriented - it's not, it's placement-oriented just like the 2-year.
 
-Cyber and Ctech have similar placement opportunities but more program-specific core courses, so balancing everything is harder. know why you want them before picking.
+if research is genuinely your aim - **MSR**. you'll go deep but it's a longer commitment and placement support is less structured compared to the 2-year programs.
+
+Cyber, Ctech, MINDS - solid programs with similar placement opportunities. Ctech is more systems/EE-CS, MINDS is AI-focused. both have more program core credits than CSE so less elective flexibility. know why you want them.
+
+JTM, Robotics - very different vibes, niche, do your own research on these.
+
+**one specific note on MINDS (AI program):**
+- selection is through a written exam, not just GATE score
+- placement average is around 28 LPA
+- good option if AI/ML is your specific focus area
 
 ---
 
@@ -83,8 +99,11 @@ Cyber and Ctech have similar placement opportunities but more program-specific c
 
 roughly 24 students sat for placement. 3 were still in phase 2 after main season - 1 HVA and 2 CSE 2-year. placement rate is high but not 100%. phase 2 is doable but it's more effort and stress.
 
+**a useful trend:** if your CG is above 8, historically most students have gotten placement sorted on day 1 or day 2 of the season. this has been consistent across past few batches. keep your CG up and placement stress reduces significantly.
+
 **package wise:**
 - M.Tech CSE: average ~37-38L, median ~34L
+- MINDS (AI): ~28L average
 - Ctech: ~20L
 - Cyber: ~25-26L average
 
@@ -136,7 +155,7 @@ more elective flexibility. systems, AI/ML, security - good courses exist if you 
 
 **IIT Delhi's drop rate is among the highest of any IIT for PG CSE.**
 
-the senior batch came in with 46 entries. by placement season, only 2 remained. for the 25-27 batch, there were 54 entries at start - current strength is close to 40 with drops already happening.
+the senior batch came in with around 24 entries in MCS. for the 25-27 batch, there were 54 entries at start - current strength is close to 40 with drops already happening.
 
 why do people drop - workload becomes unmanageable, CG falls and stipend goes, some get jobs mid-program, health and personal reasons get amplified by the pressure.
 
@@ -303,7 +322,9 @@ iitd placement numbers and faculty quality are strong. the brand matters. if you
 | thing | reality |
 |---|---|
 | admission | GATE score only for full-time, no interview - separate form per program |
+| MSR offers | come on IITD portal, not COAP |
 | placements | strong pipeline, real companies, DSA required, rules are strict |
+| CG > 8 | historically day 1/2 placement, worth targeting |
 | curriculum | changed, bridge courses gone, 57 credits, OS/CN self-study gap |
 | hostel | 2 sems only, sem 1 off-campus for most males |
 | lab space | MCS lab is good, AC, accessible - becomes your base |
@@ -315,6 +336,7 @@ iitd placement numbers and faculty quality are strong. the brand matters. if you
 | delhi | great campus, real pollution, big city adjustment |
 
 ---
+
 ## 11. some quick things seniors want you to know
 
 a few points straight from current students:
@@ -324,6 +346,9 @@ a few points straight from current students:
 - that said - the current batch has been pushing the department on this and there's likely going to be an arrangement where teams of ~8 students from MTech CSE work on a department-facilitated internship. not confirmed yet but it's being actively worked on - watch this space.
 - **on building things vs just studying** - your single most valuable resource here is time. treat it like tokens you can't get back. blogs are fine but code-as-public-good is higher leverage - small apps, tools, things you wish existed. use AI to build faster, no shame in that. 5 years from now saying "i write all my code manually" will be like saying "i make docs without MS Word." things you build improve your skills, your resume, and actually help people. that's the +ev move.
 - public goods of any kind - code, guides, tools - are worth doing. just be honest with yourself about the time cost and what you're getting back.
+
+---
+
 iit delhi is worth it if you go in knowing what you're signing up for and with a real plan. it's not worth it if you're here for the tag and expecting the rest to fall into place.
 
 hope this helped. good luck with the decision.
