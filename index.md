@@ -1,3 +1,3 @@
-# Welcome to My Blog
+# Welcome to the IITD MTech CSE Guide
 
-This is the homepage linking to my latest blog posts. Feel free to explore!
+Visit our [IITD MTech CSE Guide](http://example.com) blog post for more information!
