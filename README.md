@@ -371,7 +371,7 @@ iit delhi is worth it if you go in knowing what you're signing up for and with a
 hope this helped. good luck with the decision.
 
 if you have questions, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kathpaliachirag/) or email at chiragkathpalia1@gmail.com.
-
+For M.Tech CSE HVA-related questions, feel free to trouble [LinkedIn](https://www.linkedin.com/in/saharsh-laud/) 
 if you're a current IITD student and want to volunteer to answer questions from incoming students, send me an email - i'll add your linkedin/contact info here so prospective students can reach out directly.
 
 for fellow IIT Delhi friends - feel free to contribute through pull requests. if you notice anything wrong or outdated, raise an issue. your input keeps this accurate.
