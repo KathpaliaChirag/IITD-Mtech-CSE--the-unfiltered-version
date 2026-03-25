@@ -16,7 +16,12 @@ no fluff. just what it's actually like.
 let's go.
 
 ---
+**Disclaimer**
 
+---
+The information on this page is based on my past experiences at IIT Delhi and aims to address some common questions. It does not represent official IIT Delhi policies. For all official announcements regarding PG admissions, please visit https://home.iitd.ac.in/pg-admissions.php.
+
+---
 ## 0. eligibility and how admissions work
 
 before anything else - make sure you actually qualify.
@@ -347,12 +352,26 @@ a few points straight from current students:
 - **on building things vs just studying** - your single most valuable resource here is time. treat it like tokens you can't get back. blogs are fine but code-as-public-good is higher leverage - small apps, tools, things you wish existed. use AI to build faster, no shame in that. 5 years from now saying "i write all my code manually" will be like saying "i make docs without MS Word." things you build improve your skills, your resume, and actually help people. that's the +ev move.
 - public goods of any kind - code, guides, tools - are worth doing. just be honest with yourself about the time cost and what you're getting back.
 
+**a note specifically for those considering M.Tech Cyber Security:**
+*(the following was added on request of a student from the Cyber Security 2025-27 batch)*
+
+- reality check on the batch - most students who end up in cyber did so because they didn't get CSE. so a significant portion of the class won't actually be interested in cybersecurity and will be targeting SDE or systems roles anyway.
+- on placements - there are no core cybersecurity roles with high packages offered during placement season. if you're coming in hoping for a security-focused career track via placements, that pipeline doesn't really exist here yet. the roles available are the same SDE and systems roles that MCS students are also competing for, and MCS students have a slight edge there.
+- on curriculum - the courses are more theoretical than hands-on. security subjects cover concepts but don't go deep into practical work like Seedlabs or similar hands-on material. if you want real practical security skills you'll have to build that yourself outside of coursework.
+
+bottom line for cyber - if you're genuinely passionate about security as a field, you'll need to self-drive a lot. if you're picking it as a backup to CSE and targeting SDE roles anyway, just know you're competing in the same pool with slightly more program-specific core load.
+
 ---
 
 iit delhi is worth it if you go in knowing what you're signing up for and with a real plan. it's not worth it if you're here for the tag and expecting the rest to fall into place.
 
 hope this helped. good luck with the decision.
+If you have any questions for me, you can reach out to me on LinkedIn : https://www.linkedin.com/in/kathpaliachirag/
+For fellow IIT Delhi friends, please feel free to contribute to this write-up through pull requests. If you notice any inconsistencies in the information provided, please raise an issue or contact us via email at chiragkathpalia1@gmail.com. Your input and collaboration are greatly appreciated in maintaining the accuracy and completeness of this document.
 
+Chirag Kathpalia (2025-27 M.TECH CSE TA): Author
+Additional contributions and add-ons were made by :
+Saharsh Laud (2024-27 M.TECH HVA CSE): https://www.linkedin.com/in/saharsh-laud/
 ---
 
 *based on the 2025-27 batch situation. things change every year - verify with current students and official circulars. official admissions info lives at the CSE department admissions page. if anything here is wrong or outdated, raise an issue.*
