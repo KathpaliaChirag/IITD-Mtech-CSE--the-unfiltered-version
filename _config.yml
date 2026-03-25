@@ -1,0 +1,29 @@
+# Blog Configuration
+
+title: "Blog Title"
+
+description: "A brief description of the blog"
+
+baseurl: ""  # the subpath of your site, e.g. /blog
+
+url: "http://yourdomain.com"  # the base hostname & protocol for your site
+
+theme: "your-blog-theme"
+
+# Author metadata
+
+author:
+  name: "Your Name"
+  email: "your_email@example.com"
+
+# Build settings
+
+plugins:
+  - jekyll-feed
+
+# Social Media URLs
+
+social:
+  twitter: "your_twitter_handle"
+  github: "your_github_handle"
+  linkedIn: "your_linkedin_profile"
