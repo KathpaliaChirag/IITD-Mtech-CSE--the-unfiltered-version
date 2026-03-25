@@ -368,10 +368,6 @@ iit delhi is worth it if you go in knowing what you're signing up for and with a
 hope this helped. good luck with the decision.
 If you have any questions for me, you can reach out to me on LinkedIn : https://www.linkedin.com/in/kathpaliachirag/
 For fellow IIT Delhi friends, please feel free to contribute to this write-up through pull requests. If you notice any inconsistencies in the information provided, please raise an issue or contact us via email at chiragkathpalia1@gmail.com. Your input and collaboration are greatly appreciated in maintaining the accuracy and completeness of this document.
-
-Chirag Kathpalia (2025-27 M.TECH CSE TA): Author
-Additional contributions and add-ons were made by :
-Saharsh Laud (2024-27 M.TECH HVA CSE): https://www.linkedin.com/in/saharsh-laud/
 ---
 
 *based on the 2025-27 batch situation. things change every year - verify with current students and official circulars. official admissions info lives at the CSE department admissions page. if anything here is wrong or outdated, raise an issue.*
