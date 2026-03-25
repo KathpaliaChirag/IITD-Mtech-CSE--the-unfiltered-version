@@ -364,10 +364,18 @@ bottom line for cyber - if you're genuinely passionate about security as a field
 ---
 
 iit delhi is worth it if you go in knowing what you're signing up for and with a real plan. it's not worth it if you're here for the tag and expecting the rest to fall into place.
-
-hope this helped. good luck with the decision.
-If you have any questions for me, you can reach out to me on LinkedIn : https://www.linkedin.com/in/kathpaliachirag/
-For fellow IIT Delhi friends, please feel free to contribute to this write-up through pull requests. If you notice any inconsistencies in the information provided, please raise an issue or contact us via email at chiragkathpalia1@gmail.com. Your input and collaboration are greatly appreciated in maintaining the accuracy and completeness of this document.
 ---
 
-*based on the 2025-27 batch situation. things change every year - verify with current students and official circulars. official admissions info lives at the CSE department admissions page. if anything here is wrong or outdated, raise an issue.*
+iit delhi is worth it if you go in knowing what you're signing up for and with a real plan. it's not worth it if you're here for the tag and expecting the rest to fall into place.
+
+hope this helped. good luck with the decision.
+
+if you have questions, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kathpaliachirag/) or email at chiragkathpalia1@gmail.com.
+
+if you're a current IITD student and want to volunteer to answer questions from incoming students, send me an email - i'll add your linkedin/contact info here so prospective students can reach out directly.
+
+for fellow IIT Delhi friends - feel free to contribute through pull requests. if you notice anything wrong or outdated, raise an issue. your input keeps this accurate.
+
+---
+
+*based on the 2025-27 batch situation. things change every year - verify with current students and official circulars. official admissions info lives at the CSE department admissions page. If anything here is wrong or outdated, raise an issue.*
